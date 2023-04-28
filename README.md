@@ -1,10 +1,2 @@
-# hello_word
-# hello_word
-# hello_word
-# hello_word
-# hello_word
-# hello_word
-# hello_word
-# hello_word
-# hello_word
-# hello_word
+# hello_word pedro vitor honorio
+
